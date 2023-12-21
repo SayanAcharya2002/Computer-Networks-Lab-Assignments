@@ -1,0 +1,3350 @@
+st2 backing off to 13
+st5 backing off to 9
+st1 backing off to 12
+st2 sending data to st1 at 1
+st4 backing off to 14
+st0 backing off to 8
+st1 backing off to 17
+st3 sending data to st4 at 2
+st4 backing off to 15
+st5 backing off to 6
+st4 backing off to 18
+st1 backing off to 11
+st2 sending data to st1 at 4
+st5 backing off to 12
+collision detected at 4 purging data
+st2 backing off to 12
+st3 backing off to 6
+st5 backing off to 17
+st0 backing off to 18
+st3 backing off to 19
+st1 backing off to 16
+st4 backing off to 20
+st5 backing off to 20
+st0 backing off to 14
+st3 backing off to 11
+st4 backing off to 12
+st0 backing off to 21
+st2 backing off to 17
+st3 backing off to 16
+st0 backing off to 20
+st4 backing off to 15
+st5 backing off to 25
+st0 backing off to 15
+st2 backing off to 20
+st3 backing off to 19
+st5 backing off to 21
+st0 backing off to 14
+st4 backing off to 22
+st2 backing off to 26
+st3 backing off to 22
+st4 backing off to 15
+st5 backing off to 16
+st0 backing off to 19
+st1 sending data to st0 at 14
+st2 backing off to 21
+st4 sending data to st0 at 14
+collision detected at 14 purging data
+st0 backing off to 25
+st2 backing off to 27
+st3 backing off to 22
+st5 sending data to st1 at 15
+st1 backing off to 30
+st1 backing off to 26
+st2 backing off to 18
+st3 sending data to st3 at 17
+st4 backing off to 21
+st0 backing off to 23
+st2 backing off to 21
+st4 backing off to 32
+st5 backing off to 24
+st0 backing off to 28
+st4 backing off to 25
+st5 backing off to 23
+st0 backing off to 21
+st3 backing off to 25
+st4 backing off to 24
+st0 backing off to 22
+st1 sending data to st3 at 21
+st2 backing off to 26
+st5 backing off to 30
+st0 backing off to 25
+st1 backing off to 31
+st3 backing off to 31
+st1 backing off to 24
+st2 backing off to 36
+st0 backing off to 30
+st1 backing off to 34
+st2 backing off to 33
+st4 backing off to 29
+st0 backing off to 32
+st1 backing off to 34
+st2 sending data to st5 at 25
+st3 backing off to 39
+st4 backing off to 34
+st4 backing off to 30
+st4 backing off to 40
+st5 sending data to st1 at 27
+st0 backing off to 34
+st1 backing off to 38
+st2 backing off to 41
+st3 backing off to 38
+st4 backing off to 33
+st1 backing off to 31
+st3 backing off to 36
+st4 backing off to 32
+st5 backing off to 41
+st1 backing off to 41
+st2 backing off to 41
+st3 backing off to 44
+st4 backing off to 31
+st5 backing off to 44
+st1 backing off to 36
+st4 backing off to 37
+st5 backing off to 33
+st0 backing off to 38
+st3 backing off to 40
+st4 sending data to st0 at 32
+st5 sending data to st3 at 32
+collision detected at 32 purging data
+st0 backing off to 47
+st2 backing off to 42
+st3 backing off to 48
+st3 backing off to 41
+st4 backing off to 41
+st2 backing off to 41
+st5 backing off to 39
+st1 backing off to 46
+st3 backing off to 51
+st4 sending data to st2 at 37
+st5 backing off to 46
+st0 backing off to 49
+st1 backing off to 51
+st5 backing off to 49
+st0 sending data to st4 at 40
+st2 backing off to 43
+st3 backing off to 47
+st4 backing off to 46
+st3 backing off to 49
+st4 backing off to 53
+st0 backing off to 54
+st3 backing off to 52
+st4 sending data to st2 at 42
+st0 backing off to 52
+st2 backing off to 55
+st3 sending data to st1 at 43
+st5 backing off to 55
+collision detected at 43 purging data
+st0 backing off to 52
+st2 backing off to 56
+st3 backing off to 53
+st4 backing off to 51
+st5 backing off to 49
+st0 backing off to 53
+st1 backing off to 60
+st1 backing off to 59
+st5 backing off to 61
+st0 backing off to 60
+st2 backing off to 53
+st5 backing off to 57
+st2 sending data to st2 at 48
+st3 backing off to 62
+st1 backing off to 54
+st4 backing off to 51
+st0 backing off to 62
+st4 backing off to 63
+st5 backing off to 63
+st1 backing off to 55
+st5 backing off to 62
+st0 backing off to 63
+st2 backing off to 58
+st3 backing off to 63
+st4 backing off to 59
+st5 backing off to 64
+st0 backing off to 54
+st1 sending data to st1 at 53
+st2 backing off to 62
+st3 backing off to 63
+st4 backing off to 61
+st0 backing off to 57
+st2 backing off to 58
+st4 backing off to 65
+st3 backing off to 67
+st0 backing off to 58
+st3 backing off to 63
+st4 backing off to 63
+st0 backing off to 72
+st1 backing off to 65
+st2 backing off to 71
+st4 sending data to st5 at 58
+st5 backing off to 59
+st0 backing off to 69
+st1 backing off to 70
+st3 backing off to 71
+st5 backing off to 71
+st1 backing off to 68
+st0 backing off to 69
+st1 sending data to st5 at 61
+st2 backing off to 65
+st3 sending data to st1 at 61
+st5 backing off to 65
+collision detected at 61 purging data
+st2 backing off to 67
+st5 backing off to 70
+st0 backing off to 73
+st1 sending data to st1 at 63
+st2 backing off to 69
+st4 backing off to 77
+st1 backing off to 65
+st5 backing off to 69
+st1 sending data to st5 at 65
+st3 sending data to st1 at 65
+st5 backing off to 73
+collision detected at 65 purging data
+st0 backing off to 67
+st1 backing off to 68
+st2 backing off to 68
+st0 backing off to 75
+st1 sending data to st0 at 67
+st2 backing off to 70
+st3 sending data to st5 at 67
+st4 backing off to 69
+collision detected at 67 purging data
+st0 backing off to 75
+st2 backing off to 79
+st5 backing off to 74
+st1 backing off to 79
+st2 backing off to 71
+st3 backing off to 79
+st4 backing off to 78
+st5 sending data to st1 at 69
+st0 backing off to 83
+st4 backing off to 75
+st5 backing off to 74
+st0 backing off to 73
+st2 backing off to 72
+st3 backing off to 81
+st0 backing off to 74
+st1 backing off to 80
+st2 sending data to st5 at 72
+st4 backing off to 80
+st3 sending data to st1 at 73
+collision detected at 73 purging data
+st0 backing off to 81
+st3 backing off to 80
+st4 backing off to 86
+st5 backing off to 79
+st0 backing off to 86
+st1 backing off to 77
+st2 backing off to 78
+st3 backing off to 89
+st0 backing off to 80
+st1 backing off to 90
+st2 backing off to 90
+st5 sending data to st1 at 77
+st1 backing off to 81
+st4 backing off to 89
+st5 backing off to 81
+st1 backing off to 88
+st3 backing off to 80
+st4 backing off to 93
+st0 backing off to 89
+st1 backing off to 83
+st3 backing off to 89
+st0 backing off to 94
+st1 backing off to 90
+st2 backing off to 83
+st3 backing off to 96
+st5 backing off to 93
+st0 backing off to 93
+st2 backing off to 85
+st5 backing off to 93
+st0 backing off to 93
+st1 backing off to 95
+st2 backing off to 85
+st3 backing off to 90
+st5 backing off to 95
+st0 backing off to 92
+st1 backing off to 92
+st3 backing off to 93
+st4 backing off to 92
+st0 backing off to 99
+st1 backing off to 98
+st2 backing off to 100
+st3 sending data to st2 at 86
+st5 backing off to 100
+st0 backing off to 102
+st4 backing off to 89
+st5 sending data to st1 at 87
+st4 backing off to 98
+st5 backing off to 98
+st2 backing off to 103
+st3 backing off to 91
+st4 backing off to 102
+st0 backing off to 91
+st5 backing off to 94
+st0 backing off to 101
+st1 backing off to 104
+st2 backing off to 97
+st3 backing off to 99
+st4 backing off to 93
+st5 backing off to 93
+st1 backing off to 93
+st2 backing off to 95
+st5 backing off to 106
+st0 backing off to 96
+st1 backing off to 104
+st3 sending data to st2 at 93
+st4 backing off to 101
+st5 backing off to 98
+st1 backing off to 102
+st2 backing off to 97
+st1 backing off to 107
+st2 backing off to 99
+st3 backing off to 104
+st4 backing off to 97
+st0 backing off to 111
+st2 backing off to 104
+st3 sending data to st4 at 96
+st4 backing off to 97
+st0 sending data to st4 at 97
+st2 backing off to 103
+st3 backing off to 100
+st4 backing off to 100
+st0 backing off to 109
+st2 backing off to 103
+st3 backing off to 105
+st5 backing off to 111
+st2 backing off to 113
+st5 backing off to 100
+st0 backing off to 113
+st3 backing off to 113
+st4 backing off to 101
+st5 backing off to 110
+st3 sending data to st0 at 101
+st4 backing off to 114
+st5 backing off to 103
+st0 backing off to 105
+st2 backing off to 111
+st3 backing off to 107
+st4 sending data to st4 at 102
+st5 backing off to 110
+st1 backing off to 106
+st3 backing off to 104
+st4 backing off to 105
+st2 backing off to 119
+st3 sending data to st1 at 104
+st4 backing off to 116
+st0 backing off to 111
+st1 backing off to 112
+st3 backing off to 118
+st4 backing off to 108
+st1 backing off to 108
+st2 backing off to 112
+st3 backing off to 112
+st5 backing off to 111
+st0 backing off to 109
+st5 backing off to 117
+st1 backing off to 121
+st3 backing off to 109
+st4 backing off to 111
+st0 sending data to st3 at 109
+st2 backing off to 124
+st3 backing off to 118
+st5 backing off to 113
+st1 backing off to 111
+st0 backing off to 119
+st1 backing off to 124
+st2 backing off to 119
+st3 backing off to 117
+st4 sending data to st0 at 111
+st5 backing off to 126
+st0 backing off to 118
+st3 backing off to 123
+st1 backing off to 122
+st5 backing off to 128
+st1 backing off to 116
+st2 backing off to 123
+st1 backing off to 117
+st2 backing off to 128
+st3 backing off to 121
+st2 backing off to 131
+st5 backing off to 117
+st0 sending data to st1 at 117
+st1 backing off to 129
+st2 backing off to 120
+st4 sending data to st1 at 117
+st5 sending data to st3 at 117
+collision detected at 117 purging data
+st1 backing off to 127
+st3 backing off to 124
+st4 backing off to 120
+st5 backing off to 128
+st1 sending data to st4 at 119
+st3 backing off to 127
+st4 backing off to 121
+st5 backing off to 125
+st1 backing off to 127
+st2 backing off to 121
+st5 backing off to 127
+st0 backing off to 126
+st2 backing off to 127
+st3 backing off to 135
+st4 backing off to 134
+st2 backing off to 133
+st3 backing off to 126
+st3 backing off to 126
+st4 backing off to 137
+st5 backing off to 137
+st0 backing off to 129
+st1 backing off to 132
+st2 backing off to 133
+st3 backing off to 132
+st4 backing off to 137
+st5 backing off to 135
+st1 backing off to 133
+st3 sending data to st0 at 125
+st4 backing off to 135
+st5 backing off to 138
+st1 backing off to 138
+st2 backing off to 130
+st4 sending data to st0 at 126
+collision detected at 126 purging data
+st2 backing off to 137
+st3 backing off to 138
+st4 backing off to 132
+st5 backing off to 138
+st0 backing off to 129
+st1 backing off to 140
+st5 backing off to 132
+st0 backing off to 143
+st2 sending data to st1 at 129
+st4 backing off to 137
+st1 backing off to 140
+st5 backing off to 146
+st1 backing off to 139
+st2 backing off to 142
+st3 sending data to st4 at 132
+st5 sending data to st4 at 132
+collision detected at 132 purging data
+st0 sending data to st1 at 133
+st1 sending data to st2 at 133
+collision detected at 133 purging data
+st2 backing off to 137
+st3 sending data to st3 at 134
+st4 backing off to 145
+st3 sending data to st1 at 135
+st5 backing off to 142
+collision detected at 135 purging data
+st0 backing off to 139
+st1 backing off to 142
+st3 backing off to 141
+st0 backing off to 147
+st1 sending data to st3 at 137
+st2 sending data to st4 at 137
+st5 backing off to 144
+collision detected at 137 purging data
+st0 backing off to 141
+st0 sending data to st4 at 139
+st1 backing off to 144
+st3 backing off to 149
+st5 backing off to 153
+st1 backing off to 146
+st3 backing off to 145
+st4 backing off to 149
+st3 sending data to st5 at 143
+st2 backing off to 149
+st3 backing off to 159
+st4 backing off to 159
+st0 backing off to 158
+st1 backing off to 152
+st3 backing off to 159
+st4 backing off to 152
+st1 backing off to 152
+st2 backing off to 156
+st2 backing off to 153
+st0 backing off to 155
+st2 backing off to 157
+st3 backing off to 158
+st5 backing off to 153
+st0 backing off to 154
+st5 backing off to 154
+st0 backing off to 156
+st2 backing off to 166
+st4 sending data to st3 at 151
+st1 backing off to 156
+st5 backing off to 153
+st0 backing off to 163
+st1 backing off to 155
+st2 backing off to 165
+st3 backing off to 165
+st4 backing off to 166
+st5 sending data to st3 at 153
+st1 backing off to 159
+st2 backing off to 163
+st0 backing off to 161
+st5 backing off to 168
+st0 backing off to 161
+st1 backing off to 164
+st3 backing off to 158
+st4 backing off to 171
+st5 backing off to 168
+st0 sending data to st3 at 157
+st2 backing off to 162
+st3 backing off to 172
+st4 backing off to 159
+st5 backing off to 160
+st1 backing off to 173
+st4 sending data to st1 at 158
+st5 backing off to 169
+st4 backing off to 167
+st0 backing off to 174
+st2 backing off to 162
+st4 backing off to 168
+st0 backing off to 171
+st2 sending data to st5 at 161
+st4 backing off to 173
+st5 backing off to 172
+st0 backing off to 167
+st1 backing off to 167
+st4 backing off to 166
+st5 sending data to st4 at 162
+collision detected at 162 purging data
+st0 backing off to 165
+st2 backing off to 164
+st5 backing off to 170
+st0 backing off to 170
+st1 backing off to 169
+st2 backing off to 174
+st5 sending data to st4 at 164
+st0 backing off to 180
+st1 backing off to 173
+st3 backing off to 169
+st4 backing off to 175
+st5 backing off to 177
+st3 sending data to st0 at 166
+st4 sending data to st2 at 166
+collision detected at 166 purging data
+st0 sending data to st0 at 167
+st1 backing off to 180
+st2 backing off to 173
+st3 backing off to 182
+st5 backing off to 181
+st1 backing off to 174
+st3 backing off to 180
+st2 backing off to 177
+st4 backing off to 183
+st2 backing off to 178
+st4 backing off to 185
+st5 backing off to 176
+st1 backing off to 178
+st4 backing off to 175
+st2 backing off to 182
+st3 backing off to 175
+st4 sending data to st0 at 172
+st0 sending data to st5 at 173
+st5 backing off to 186
+st0 backing off to 175
+st1 backing off to 177
+st2 sending data to st2 at 174
+st5 backing off to 178
+collision detected at 174 purging data
+st0 backing off to 176
+st3 sending data to st4 at 175
+st4 backing off to 187
+st0 sending data to st0 at 176
+st2 sending data to st0 at 176
+st3 backing off to 182
+st4 backing off to 182
+st5 backing off to 178
+collision detected at 176 purging data
+st1 backing off to 184
+st2 backing off to 182
+st4 backing off to 179
+st5 backing off to 184
+st1 backing off to 180
+st2 backing off to 191
+st0 sending data to st1 at 179
+st1 sending data to st0 at 179
+st2 backing off to 188
+st3 backing off to 180
+st4 backing off to 186
+st5 backing off to 180
+collision detected at 179 purging data
+st0 backing off to 191
+st3 backing off to 192
+st5 backing off to 195
+st1 backing off to 192
+st5 backing off to 190
+st1 backing off to 194
+st2 backing off to 186
+st4 backing off to 188
+st5 backing off to 197
+st0 backing off to 190
+st2 backing off to 195
+st3 backing off to 188
+st5 backing off to 189
+st3 backing off to 188
+st4 backing off to 188
+st5 backing off to 190
+st2 backing off to 198
+st3 sending data to st4 at 186
+st0 backing off to 193
+st2 backing off to 190
+st3 backing off to 201
+st0 backing off to 191
+st1 backing off to 195
+st3 backing off to 202
+st4 backing off to 192
+st0 backing off to 196
+st1 backing off to 191
+st3 backing off to 190
+st1 backing off to 203
+st2 sending data to st4 at 190
+st3 backing off to 198
+st4 backing off to 205
+st5 backing off to 202
+st0 backing off to 196
+st1 backing off to 198
+st3 backing off to 198
+st1 sending data to st2 at 192
+st3 backing off to 195
+st4 backing off to 193
+st5 backing off to 195
+collision detected at 192 purging data
+st4 backing off to 200
+st1 backing off to 201
+st2 backing off to 197
+st3 backing off to 203
+st4 backing off to 206
+st5 sending data to st4 at 194
+st1 backing off to 208
+st5 backing off to 206
+st0 backing off to 207
+st2 backing off to 202
+st3 backing off to 204
+st5 backing off to 199
+st1 backing off to 209
+st4 backing off to 205
+st2 backing off to 209
+st4 backing off to 204
+st3 sending data to st3 at 199
+st5 backing off to 208
+st4 backing off to 204
+st5 backing off to 210
+st0 backing off to 209
+st1 backing off to 214
+st2 backing off to 212
+st4 backing off to 213
+st0 backing off to 203
+st1 backing off to 211
+st2 backing off to 209
+st5 backing off to 210
+st0 backing off to 212
+st5 sending data to st3 at 203
+st1 backing off to 211
+st2 backing off to 210
+st3 backing off to 218
+st0 backing off to 210
+st1 backing off to 208
+st2 backing off to 220
+st3 backing off to 217
+st1 backing off to 214
+st3 backing off to 211
+st0 sending data to st2 at 207
+st1 sending data to st0 at 207
+st4 backing off to 215
+collision detected at 207 purging data
+st0 sending data to st5 at 208
+st1 backing off to 210
+st2 backing off to 214
+st3 backing off to 209
+st4 backing off to 220
+st1 sending data to st1 at 209
+st2 backing off to 220
+st3 backing off to 218
+st5 backing off to 218
+collision detected at 209 purging data
+st0 backing off to 217
+st5 sending data to st0 at 210
+st1 sending data to st0 at 211
+st3 backing off to 220
+st4 backing off to 220
+st5 backing off to 224
+collision detected at 211 purging data
+st2 backing off to 220
+st3 backing off to 226
+st4 backing off to 214
+st5 sending data to st4 at 212
+st1 sending data to st2 at 213
+st2 backing off to 214
+st4 backing off to 227
+st5 backing off to 220
+collision detected at 213 purging data
+st1 backing off to 218
+st2 backing off to 223
+st3 backing off to 229
+st5 sending data to st4 at 214
+st1 sending data to st5 at 215
+st4 backing off to 226
+collision detected at 215 purging data
+st0 backing off to 228
+st4 backing off to 227
+st5 backing off to 217
+st1 backing off to 229
+st2 backing off to 230
+st5 backing off to 228
+st0 backing off to 220
+st1 backing off to 223
+st2 backing off to 221
+st3 backing off to 222
+st5 backing off to 223
+st1 backing off to 230
+st2 sending data to st0 at 219
+st4 backing off to 227
+st5 sending data to st2 at 219
+collision detected at 219 purging data
+st0 backing off to 233
+st1 backing off to 228
+st2 sending data to st2 at 220
+st3 backing off to 222
+st0 backing off to 225
+st1 backing off to 230
+st2 backing off to 235
+st5 backing off to 228
+st2 backing off to 233
+st3 backing off to 224
+st4 backing off to 231
+st1 backing off to 235
+st2 backing off to 235
+st3 sending data to st5 at 223
+st4 backing off to 235
+st0 backing off to 227
+st1 sending data to st1 at 224
+st4 sending data to st1 at 224
+collision detected at 224 purging data
+st1 backing off to 234
+st4 backing off to 237
+st0 backing off to 231
+st1 backing off to 235
+st2 sending data to st1 at 227
+st3 backing off to 236
+st4 backing off to 229
+st2 backing off to 242
+st4 backing off to 243
+st5 backing off to 234
+st1 backing off to 235
+st2 backing off to 233
+st1 sending data to st2 at 230
+st2 backing off to 232
+st3 backing off to 231
+st0 backing off to 232
+st1 sending data to st5 at 231
+st2 backing off to 246
+st3 backing off to 234
+st4 sending data to st4 at 231
+st5 backing off to 240
+collision detected at 231 purging data
+st0 backing off to 234
+st1 backing off to 236
+st3 backing off to 233
+st5 backing off to 233
+st0 backing off to 240
+st1 backing off to 240
+st3 sending data to st0 at 233
+st5 backing off to 238
+st0 backing off to 237
+st1 backing off to 246
+st2 backing off to 241
+st0 backing off to 241
+st1 backing off to 248
+st5 sending data to st5 at 235
+st1 backing off to 249
+st2 backing off to 246
+st3 backing off to 244
+st1 sending data to st2 at 237
+st2 backing off to 251
+st3 backing off to 249
+st4 backing off to 242
+collision detected at 237 purging data
+st2 backing off to 244
+st3 sending data to st5 at 238
+st4 backing off to 252
+st5 backing off to 241
+st0 sending data to st2 at 239
+st1 backing off to 241
+st2 backing off to 250
+st3 backing off to 252
+st4 backing off to 247
+st0 backing off to 249
+st1 backing off to 253
+st3 backing off to 246
+st4 sending data to st2 at 240
+collision detected at 240 purging data
+st2 backing off to 246
+st5 backing off to 253
+st1 backing off to 253
+st2 backing off to 249
+st1 sending data to st2 at 243
+st4 sending data to st0 at 243
+collision detected at 243 purging data
+st2 backing off to 257
+st3 sending data to st5 at 244
+st4 backing off to 252
+st0 backing off to 247
+st2 backing off to 254
+st1 backing off to 257
+st2 backing off to 248
+st3 backing off to 251
+st5 sending data to st2 at 246
+st0 backing off to 257
+st1 backing off to 258
+st1 backing off to 257
+st2 backing off to 249
+st4 sending data to st2 at 248
+st5 backing off to 256
+st0 backing off to 256
+st2 backing off to 257
+st4 backing off to 264
+st1 backing off to 260
+st2 backing off to 263
+st5 sending data to st2 at 250
+st0 backing off to 266
+st1 sending data to st3 at 251
+st3 backing off to 252
+st4 backing off to 254
+st5 backing off to 262
+collision detected at 251 purging data
+st0 backing off to 254
+st1 backing off to 257
+st2 backing off to 254
+st3 backing off to 263
+st1 backing off to 257
+st3 backing off to 256
+st4 backing off to 256
+st0 backing off to 258
+st1 sending data to st2 at 254
+st2 backing off to 269
+st4 backing off to 260
+st5 backing off to 255
+st0 backing off to 263
+st1 backing off to 265
+st5 backing off to 270
+st1 backing off to 261
+st2 backing off to 270
+st3 backing off to 265
+st5 backing off to 267
+st0 sending data to st4 at 257
+st2 sending data to st4 at 257
+st4 backing off to 271
+collision detected at 257 purging data
+st3 sending data to st1 at 258
+st4 backing off to 262
+st0 backing off to 264
+st1 backing off to 274
+st5 backing off to 261
+st1 backing off to 274
+st2 sending data to st4 at 260
+st4 sending data to st3 at 260
+collision detected at 260 purging data
+st0 backing off to 273
+st1 backing off to 276
+st5 sending data to st0 at 261
+st0 backing off to 274
+st1 backing off to 267
+st2 sending data to st0 at 262
+st3 backing off to 263
+st0 backing off to 270
+st3 backing off to 269
+st5 backing off to 273
+st0 backing off to 269
+st2 backing off to 265
+st4 backing off to 279
+st5 backing off to 271
+st2 backing off to 275
+st2 backing off to 278
+st3 backing off to 267
+st4 backing off to 281
+st1 backing off to 279
+st3 backing off to 270
+st4 backing off to 281
+st0 sending data to st3 at 268
+st3 sending data to st0 at 268
+st4 backing off to 269
+collision detected at 268 purging data
+st0 backing off to 275
+st1 backing off to 283
+st2 backing off to 275
+st3 backing off to 280
+st4 backing off to 271
+st0 backing off to 273
+st3 sending data to st4 at 270
+st5 backing off to 284
+st2 backing off to 286
+st4 backing off to 280
+st5 backing off to 282
+st0 backing off to 281
+st2 backing off to 283
+st3 backing off to 283
+st4 backing off to 273
+st0 backing off to 286
+st1 backing off to 279
+st2 backing off to 286
+st4 backing off to 288
+st5 backing off to 282
+st0 backing off to 287
+st2 backing off to 279
+st3 backing off to 282
+st4 backing off to 285
+st5 backing off to 281
+st0 backing off to 288
+st1 backing off to 285
+st4 backing off to 290
+st5 backing off to 289
+st0 backing off to 290
+st1 backing off to 291
+st2 backing off to 281
+st5 sending data to st1 at 276
+st0 backing off to 290
+st1 sending data to st4 at 277
+st4 backing off to 282
+st5 backing off to 287
+collision detected at 277 purging data
+st0 sending data to st0 at 278
+st3 backing off to 290
+st4 backing off to 287
+st0 sending data to st3 at 279
+st1 backing off to 289
+collision detected at 279 purging data
+st0 backing off to 290
+st1 backing off to 291
+st2 backing off to 293
+st3 backing off to 293
+st4 backing off to 293
+st1 backing off to 285
+st5 backing off to 285
+st0 sending data to st4 at 282
+st2 backing off to 285
+st4 backing off to 283
+st5 backing off to 294
+st4 backing off to 294
+st5 backing off to 294
+st2 backing off to 296
+st0 backing off to 292
+st1 sending data to st0 at 285
+st2 backing off to 301
+st3 backing off to 287
+st4 sending data to st4 at 286
+st0 backing off to 293
+st2 backing off to 302
+st3 backing off to 296
+st4 backing off to 297
+st5 backing off to 290
+st1 backing off to 293
+st5 backing off to 297
+st1 backing off to 304
+st1 sending data to st1 at 291
+st4 backing off to 297
+st2 sending data to st5 at 292
+st3 backing off to 307
+collision detected at 292 purging data
+st0 backing off to 300
+st5 backing off to 294
+st0 sending data to st2 at 294
+st1 backing off to 305
+st3 backing off to 297
+st5 sending data to st0 at 294
+collision detected at 294 purging data
+st0 backing off to 306
+st2 backing off to 300
+st4 backing off to 303
+st5 backing off to 308
+st1 backing off to 297
+st2 backing off to 310
+st0 backing off to 307
+st1 backing off to 298
+st2 backing off to 303
+st3 backing off to 301
+st4 backing off to 309
+st5 backing off to 309
+st0 backing off to 310
+st1 backing off to 313
+st1 sending data to st2 at 299
+st2 backing off to 313
+st0 backing off to 302
+st1 backing off to 302
+st3 backing off to 304
+st4 backing off to 308
+st5 sending data to st0 at 300
+collision detected at 300 purging data
+st0 backing off to 311
+st1 backing off to 308
+st2 backing off to 316
+st4 backing off to 302
+st5 backing off to 304
+st0 backing off to 317
+st1 backing off to 316
+st2 backing off to 308
+st4 backing off to 310
+st0 backing off to 316
+st1 backing off to 305
+st3 backing off to 306
+st5 backing off to 307
+st0 sending data to st1 at 304
+st5 backing off to 305
+st0 backing off to 308
+st1 backing off to 312
+st2 backing off to 312
+st4 backing off to 317
+st5 backing off to 317
+st0 backing off to 310
+st3 sending data to st4 at 306
+st4 backing off to 309
+st5 backing off to 309
+st1 sending data to st3 at 307
+st2 backing off to 309
+st3 backing off to 311
+st4 sending data to st2 at 307
+st5 sending data to st0 at 307
+collision detected at 307 purging data
+st0 backing off to 310
+st1 backing off to 316
+st2 backing off to 316
+st5 backing off to 310
+st1 sending data to st1 at 309
+st2 sending data to st5 at 309
+st3 backing off to 316
+st4 backing off to 318
+collision detected at 309 purging data
+st0 backing off to 319
+st1 backing off to 317
+st4 backing off to 311
+st5 backing off to 312
+st0 backing off to 323
+st1 backing off to 324
+st2 backing off to 325
+st4 sending data to st5 at 311
+st0 backing off to 319
+st1 backing off to 320
+st2 backing off to 327
+st3 sending data to st2 at 312
+st4 backing off to 324
+st5 backing off to 313
+collision detected at 312 purging data
+st0 backing off to 321
+st2 backing off to 320
+st4 backing off to 318
+st5 sending data to st1 at 313
+st0 backing off to 328
+st5 backing off to 322
+st0 sending data to st3 at 315
+st1 sending data to st5 at 315
+st2 backing off to 321
+collision detected at 315 purging data
+st1 backing off to 323
+st3 backing off to 323
+st4 sending data to st0 at 316
+st0 sending data to st0 at 317
+st2 backing off to 331
+st3 sending data to st1 at 317
+st5 sending data to st0 at 317
+collision detected at 317 purging data
+st0 backing off to 326
+st1 backing off to 332
+st3 backing off to 328
+st4 backing off to 320
+st5 sending data to st1 at 319
+st1 sending data to st0 at 320
+st2 backing off to 321
+st3 sending data to st0 at 320
+st4 backing off to 321
+collision detected at 320 purging data
+st0 backing off to 336
+st2 backing off to 331
+st4 backing off to 330
+st5 sending data to st4 at 321
+st1 backing off to 329
+st3 backing off to 331
+st4 backing off to 328
+st5 backing off to 324
+st1 sending data to st2 at 323
+st2 backing off to 324
+st3 backing off to 338
+collision detected at 323 purging data
+st1 backing off to 331
+st2 backing off to 339
+st3 backing off to 336
+st5 backing off to 335
+st0 backing off to 329
+st0 sending data to st3 at 327
+st2 backing off to 342
+st1 backing off to 329
+st2 backing off to 343
+st3 backing off to 329
+st4 backing off to 343
+st1 backing off to 342
+st3 backing off to 337
+st4 backing off to 338
+st0 backing off to 335
+st2 backing off to 345
+st3 backing off to 341
+st4 sending data to st1 at 330
+st5 backing off to 339
+st0 backing off to 343
+st1 backing off to 340
+st3 backing off to 347
+st4 sending data to st5 at 332
+st5 backing off to 338
+st2 backing off to 342
+st3 backing off to 341
+st4 sending data to st0 at 334
+st5 sending data to st2 at 334
+collision detected at 334 purging data
+st1 sending data to st5 at 335
+st2 backing off to 348
+st3 backing off to 337
+st5 backing off to 340
+st0 backing off to 347
+st1 backing off to 348
+st2 backing off to 342
+st3 backing off to 349
+st4 sending data to st5 at 336
+st5 backing off to 344
+st0 sending data to st3 at 338
+st3 backing off to 347
+collision detected at 338 purging data
+st1 backing off to 354
+st3 backing off to 347
+st0 backing off to 346
+st2 backing off to 346
+st3 backing off to 355
+st4 backing off to 349
+st1 backing off to 355
+st2 backing off to 354
+st3 backing off to 350
+st5 backing off to 351
+st0 backing off to 345
+st2 backing off to 355
+st3 backing off to 343
+st5 sending data to st0 at 342
+st0 backing off to 351
+st1 backing off to 348
+st3 backing off to 346
+st4 backing off to 353
+st3 backing off to 345
+st5 backing off to 347
+st3 backing off to 360
+st0 backing off to 358
+st1 backing off to 358
+st2 backing off to 355
+st3 backing off to 351
+st4 backing off to 358
+st0 backing off to 356
+st1 backing off to 351
+st5 backing off to 357
+st1 backing off to 357
+st3 backing off to 356
+st4 backing off to 361
+st0 backing off to 352
+st4 backing off to 351
+st5 backing off to 361
+st5 backing off to 358
+st2 backing off to 357
+st4 backing off to 358
+st0 backing off to 361
+st2 sending data to st3 at 352
+st5 backing off to 367
+st0 sending data to st0 at 353
+st1 backing off to 357
+st2 sending data to st5 at 353
+st3 backing off to 354
+st4 backing off to 356
+st5 backing off to 359
+collision detected at 353 purging data
+st0 backing off to 362
+st3 backing off to 355
+st5 backing off to 359
+st3 backing off to 364
+st4 backing off to 361
+st2 backing off to 369
+st3 backing off to 363
+st4 sending data to st2 at 356
+st5 backing off to 362
+st1 backing off to 368
+st4 backing off to 359
+st5 backing off to 371
+st3 backing off to 372
+st5 backing off to 373
+st0 backing off to 360
+st2 backing off to 370
+st3 backing off to 373
+st4 backing off to 367
+st5 sending data to st3 at 359
+st0 sending data to st0 at 360
+st1 backing off to 368
+st3 backing off to 362
+st4 backing off to 361
+st2 backing off to 363
+st3 backing off to 363
+st4 backing off to 369
+st0 backing off to 363
+st1 backing off to 366
+st3 backing off to 371
+st5 backing off to 377
+st0 backing off to 369
+st2 backing off to 371
+st3 backing off to 364
+st4 backing off to 377
+st5 backing off to 371
+st0 backing off to 375
+st1 backing off to 379
+st3 backing off to 369
+st4 backing off to 377
+st5 backing off to 371
+st4 sending data to st2 at 365
+st5 backing off to 373
+st0 backing off to 368
+st2 backing off to 371
+st3 backing off to 371
+st4 backing off to 375
+st0 backing off to 374
+st1 backing off to 368
+st2 backing off to 374
+st3 backing off to 377
+st4 backing off to 371
+st5 backing off to 381
+st0 sending data to st1 at 368
+st1 backing off to 372
+st4 backing off to 369
+st5 backing off to 372
+st1 backing off to 377
+st3 backing off to 382
+st4 backing off to 374
+st1 backing off to 383
+st2 sending data to st2 at 370
+st3 sending data to st1 at 370
+st5 backing off to 379
+collision detected at 370 purging data
+st0 backing off to 382
+st1 backing off to 383
+st3 backing off to 380
+st4 backing off to 386
+st5 sending data to st0 at 371
+st4 backing off to 386
+st3 backing off to 385
+st0 sending data to st0 at 374
+st1 backing off to 376
+st2 backing off to 384
+st3 backing off to 375
+st5 sending data to st4 at 374
+collision detected at 374 purging data
+st3 backing off to 378
+st5 backing off to 390
+st1 backing off to 387
+st3 sending data to st5 at 376
+st4 backing off to 383
+st5 backing off to 378
+st3 backing off to 391
+st5 backing off to 392
+st0 backing off to 380
+st2 backing off to 379
+st3 backing off to 389
+st5 backing off to 392
+st0 sending data to st3 at 379
+st2 sending data to st0 at 379
+st3 backing off to 389
+st4 sending data to st2 at 379
+st5 backing off to 384
+collision detected at 379 purging data
+st2 sending data to st4 at 380
+st3 backing off to 395
+st5 backing off to 390
+st0 backing off to 385
+st2 backing off to 390
+st4 backing off to 391
+st1 backing off to 393
+st2 backing off to 397
+st3 backing off to 394
+st5 sending data to st5 at 382
+st1 backing off to 387
+st3 sending data to st3 at 383
+collision detected at 383 purging data
+st0 backing off to 389
+st5 backing off to 394
+st0 backing off to 388
+st2 backing off to 396
+st0 backing off to 387
+st1 backing off to 390
+st2 backing off to 401
+st3 backing off to 391
+st5 backing off to 401
+st0 backing off to 389
+st0 backing off to 396
+st3 backing off to 398
+st5 backing off to 398
+st0 backing off to 401
+st3 backing off to 392
+st5 backing off to 403
+st1 backing off to 401
+st2 backing off to 405
+st3 backing off to 405
+st4 backing off to 402
+st5 backing off to 391
+st0 backing off to 399
+st3 backing off to 403
+st4 backing off to 402
+st5 backing off to 400
+st4 sending data to st1 at 392
+st0 backing off to 399
+st2 backing off to 405
+st3 sending data to st1 at 393
+st4 backing off to 406
+collision detected at 393 purging data
+st0 backing off to 400
+st3 backing off to 407
+st5 backing off to 401
+st3 sending data to st3 at 395
+st4 backing off to 410
+st5 sending data to st3 at 395
+collision detected at 395 purging data
+st0 backing off to 404
+st3 backing off to 401
+st4 backing off to 404
+st0 backing off to 405
+st2 backing off to 407
+st4 backing off to 407
+st5 backing off to 407
+st1 sending data to st2 at 398
+st0 backing off to 400
+st2 backing off to 413
+st4 backing off to 403
+st0 sending data to st0 at 400
+st0 backing off to 405
+st3 backing off to 402
+st1 backing off to 410
+st3 backing off to 405
+st5 sending data to st2 at 402
+st0 backing off to 408
+st1 backing off to 405
+st2 sending data to st4 at 403
+st3 backing off to 410
+st4 backing off to 408
+st5 backing off to 410
+collision detected at 403 purging data
+st2 backing off to 417
+st3 sending data to st1 at 404
+st4 backing off to 413
+st0 backing off to 408
+st1 backing off to 407
+st4 sending data to st5 at 405
+collision detected at 405 purging data
+st1 backing off to 418
+st3 backing off to 419
+st0 backing off to 413
+st2 sending data to st3 at 408
+st3 backing off to 410
+st5 backing off to 420
+st2 backing off to 421
+st3 backing off to 416
+st4 backing off to 421
+st0 backing off to 418
+st0 backing off to 423
+st1 backing off to 424
+st3 backing off to 419
+st4 backing off to 415
+st0 backing off to 415
+st0 backing off to 426
+st1 backing off to 418
+st3 backing off to 423
+st4 backing off to 425
+st3 backing off to 428
+st4 backing off to 419
+st0 backing off to 427
+st1 backing off to 416
+st2 backing off to 428
+st3 sending data to st0 at 415
+st1 sending data to st3 at 416
+st2 backing off to 420
+st4 sending data to st0 at 416
+collision detected at 416 purging data
+st0 backing off to 430
+st1 backing off to 423
+st3 backing off to 432
+st5 backing off to 420
+st3 backing off to 425
+st2 sending data to st0 at 419
+st3 sending data to st3 at 419
+st5 backing off to 426
+collision detected at 419 purging data
+st0 sending data to st4 at 420
+st1 backing off to 428
+st3 backing off to 430
+st0 backing off to 435
+st1 backing off to 424
+st2 backing off to 432
+st1 backing off to 423
+st4 backing off to 424
+st1 sending data to st5 at 423
+st2 backing off to 429
+st4 sending data to st5 at 423
+st5 backing off to 427
+collision detected at 423 purging data
+st0 backing off to 429
+st1 backing off to 431
+st3 backing off to 437
+st5 backing off to 431
+st1 backing off to 428
+st2 backing off to 431
+st0 backing off to 440
+st1 sending data to st4 at 426
+st4 backing off to 430
+st0 backing off to 433
+st3 sending data to st4 at 428
+st5 backing off to 431
+st0 backing off to 434
+st1 backing off to 435
+st4 backing off to 443
+st5 backing off to 443
+st1 backing off to 441
+st2 backing off to 435
+st4 backing off to 437
+st5 backing off to 435
+st1 backing off to 444
+st4 backing off to 442
+st5 backing off to 445
+st0 backing off to 441
+st1 backing off to 440
+st5 backing off to 440
+st1 backing off to 441
+st2 backing off to 439
+st0 backing off to 436
+st2 backing off to 442
+st4 backing off to 436
+st5 sending data to st4 at 434
+st1 backing off to 442
+st2 backing off to 445
+st4 backing off to 438
+st5 backing off to 447
+st0 backing off to 446
+st2 backing off to 438
+st0 sending data to st3 at 437
+st2 backing off to 448
+st3 backing off to 444
+st5 backing off to 449
+st0 backing off to 444
+st4 backing off to 447
+st0 sending data to st5 at 439
+st1 backing off to 448
+st2 backing off to 442
+st0 sending data to st3 at 440
+st1 backing off to 454
+st2 backing off to 442
+st3 backing off to 454
+st5 backing off to 450
+collision detected at 440 purging data
+st0 backing off to 444
+st1 backing off to 451
+st5 backing off to 446
+st1 backing off to 450
+st2 sending data to st2 at 442
+st3 backing off to 454
+st1 backing off to 446
+st3 backing off to 455
+st4 sending data to st0 at 443
+collision detected at 443 purging data
+st0 backing off to 453
+st2 backing off to 455
+st3 backing off to 452
+st5 backing off to 459
+st3 backing off to 450
+st4 backing off to 456
+st5 sending data to st4 at 445
+st0 backing off to 456
+st1 backing off to 448
+st2 backing off to 455
+st3 backing off to 459
+st4 sending data to st4 at 446
+st5 backing off to 459
+collision detected at 446 purging data
+st0 backing off to 461
+st1 backing off to 450
+st3 backing off to 458
+st4 backing off to 459
+st0 backing off to 458
+st2 backing off to 450
+st3 backing off to 453
+st1 backing off to 465
+st2 sending data to st5 at 450
+st3 backing off to 459
+st5 sending data to st0 at 450
+collision detected at 450 purging data
+st0 sending data to st5 at 451
+st1 sending data to st1 at 451
+st3 backing off to 463
+st5 backing off to 463
+collision detected at 451 purging data
+st4 sending data to st1 at 452
+st5 backing off to 458
+st2 backing off to 460
+st3 backing off to 459
+st5 backing off to 465
+st3 backing off to 468
+st4 backing off to 460
+st1 sending data to st1 at 455
+st2 backing off to 466
+st3 sending data to st2 at 455
+st4 backing off to 458
+collision detected at 455 purging data
+st1 sending data to st5 at 456
+st2 backing off to 459
+st3 sending data to st3 at 456
+collision detected at 456 purging data
+st3 backing off to 460
+st4 backing off to 471
+st1 backing off to 463
+st2 backing off to 465
+st3 backing off to 460
+st5 backing off to 462
+st1 backing off to 460
+st2 backing off to 463
+st0 backing off to 467
+st1 backing off to 468
+st3 backing off to 464
+st4 backing off to 464
+st1 backing off to 467
+st3 backing off to 471
+st1 backing off to 474
+st3 sending data to st5 at 462
+st4 backing off to 466
+st5 backing off to 471
+st0 sending data to st2 at 463
+st1 backing off to 476
+st2 backing off to 474
+st4 backing off to 475
+st5 backing off to 466
+st1 backing off to 477
+st2 backing off to 478
+st4 sending data to st1 at 464
+st1 backing off to 466
+st2 backing off to 476
+st1 backing off to 477
+st4 backing off to 477
+st5 sending data to st0 at 466
+st0 sending data to st5 at 467
+st3 backing off to 470
+st5 backing off to 482
+st3 backing off to 478
+st4 sending data to st3 at 468
+st5 backing off to 475
+st0 backing off to 482
+st1 backing off to 471
+st2 sending data to st3 at 469
+st3 sending data to st0 at 469
+st4 backing off to 479
+st5 backing off to 481
+collision detected at 469 purging data
+st1 backing off to 471
+st2 backing off to 477
+st0 sending data to st2 at 471
+st1 backing off to 482
+st5 backing off to 482
+st3 backing off to 475
+st4 sending data to st0 at 472
+st5 backing off to 473
+collision detected at 472 purging data
+st2 backing off to 488
+st5 backing off to 488
+st1 backing off to 486
+st2 backing off to 484
+st4 backing off to 489
+st2 sending data to st1 at 475
+st3 backing off to 476
+st5 backing off to 488
+st0 backing off to 480
+st1 backing off to 487
+st2 backing off to 488
+st3 backing off to 487
+st5 sending data to st5 at 476
+collision detected at 476 purging data
+st0 backing off to 484
+st4 backing off to 482
+st2 backing off to 485
+st5 backing off to 490
+st0 backing off to 489
+st1 backing off to 491
+st2 backing off to 485
+st5 backing off to 491
+st2 sending data to st2 at 480
+st3 backing off to 493
+st2 sending data to st2 at 481
+st4 backing off to 496
+collision detected at 481 purging data
+st1 backing off to 485
+st2 backing off to 494
+st4 sending data to st5 at 482
+st0 backing off to 496
+st2 backing off to 484
+st3 backing off to 491
+st4 backing off to 492
+st5 backing off to 498
+st2 backing off to 493
+st4 backing off to 494
+st1 backing off to 487
+st4 backing off to 495
+st5 backing off to 498
+st2 sending data to st3 at 486
+st4 backing off to 493
+st1 backing off to 489
+st2 sending data to st2 at 487
+st4 backing off to 488
+st1 backing off to 491
+st2 backing off to 498
+st4 backing off to 501
+st5 backing off to 491
+st0 backing off to 492
+st1 backing off to 502
+st2 backing off to 497
+st3 sending data to st4 at 489
+st5 sending data to st4 at 489
+collision detected at 489 purging data
+st2 backing off to 493
+st3 backing off to 497
+st4 backing off to 503
+st5 backing off to 503
+st0 backing off to 494
+st1 backing off to 505
+st2 backing off to 506
+st4 sending data to st4 at 491
+st5 backing off to 493
+st0 backing off to 498
+st1 sending data to st3 at 492
+st3 backing off to 495
+st5 sending data to st3 at 492
+collision detected at 492 purging data
+st1 sending data to st2 at 493
+st2 backing off to 505
+st3 backing off to 495
+st5 sending data to st4 at 493
+collision detected at 493 purging data
+st0 backing off to 495
+st1 backing off to 497
+st5 backing off to 495
+st0 backing off to 500
+st1 backing off to 501
+st3 backing off to 498
+st5 backing off to 503
+st0 backing off to 498
+st2 backing off to 505
+st0 backing off to 508
+st1 backing off to 510
+st3 backing off to 512
+st5 backing off to 505
+st0 backing off to 510
+st3 backing off to 513
+st1 backing off to 501
+st2 backing off to 505
+st3 backing off to 509
+st0 backing off to 509
+st1 sending data to st5 at 500
+st2 backing off to 502
+st0 sending data to st1 at 501
+st1 backing off to 515
+st4 backing off to 508
+collision detected at 501 purging data
+st2 sending data to st3 at 502
+st3 backing off to 511
+st5 backing off to 511
+st1 sending data to st3 at 503
+st2 backing off to 517
+collision detected at 503 purging data
+st1 sending data to st5 at 504
+st2 backing off to 519
+st0 backing off to 511
+st1 sending data to st1 at 505
+st3 backing off to 520
+st4 backing off to 518
+collision detected at 505 purging data
+st0 backing off to 507
+st2 backing off to 517
+st3 backing off to 512
+st0 backing off to 510
+st3 sending data to st2 at 507
+st5 backing off to 519
+st1 backing off to 513
+st2 backing off to 518
+st3 backing off to 514
+st5 backing off to 521
+st0 backing off to 523
+st1 backing off to 510
+st3 backing off to 513
+st1 backing off to 520
+st3 backing off to 519
+st4 backing off to 516
+st5 sending data to st0 at 510
+st2 backing off to 516
+st3 backing off to 527
+st5 backing off to 519
+st0 backing off to 525
+st1 sending data to st1 at 513
+st2 backing off to 524
+st4 sending data to st5 at 513
+st5 sending data to st0 at 513
+collision detected at 513 purging data
+st1 backing off to 524
+st4 backing off to 515
+st2 backing off to 527
+st4 backing off to 516
+st5 backing off to 519
+st1 sending data to st3 at 516
+st4 sending data to st3 at 516
+collision detected at 516 purging data
+st1 backing off to 524
+st2 backing off to 521
+st3 backing off to 526
+st1 backing off to 531
+st2 backing off to 523
+st0 backing off to 528
+st2 backing off to 525
+st3 backing off to 522
+st4 backing off to 520
+st5 backing off to 527
+st3 backing off to 521
+st4 sending data to st4 at 520
+st5 backing off to 532
+st1 sending data to st4 at 521
+st2 sending data to st2 at 521
+st3 sending data to st4 at 521
+collision detected at 521 purging data
+st0 backing off to 524
+st2 backing off to 535
+st3 sending data to st1 at 522
+st1 backing off to 529
+st4 backing off to 534
+st5 backing off to 524
+st0 backing off to 526
+st2 backing off to 526
+st5 backing off to 528
+st1 backing off to 527
+st3 sending data to st5 at 525
+st5 backing off to 537
+st0 backing off to 533
+st2 backing off to 537
+st4 backing off to 528
+st0 backing off to 528
+st1 backing off to 528
+st2 backing off to 530
+st3 backing off to 534
+st0 backing off to 537
+st1 backing off to 543
+st2 backing off to 533
+st3 backing off to 531
+st4 backing off to 537
+st0 backing off to 536
+st0 backing off to 532
+st1 backing off to 537
+st3 backing off to 545
+st5 backing off to 545
+st0 backing off to 534
+st2 sending data to st0 at 531
+st3 backing off to 534
+st4 backing off to 535
+st5 backing off to 532
+st0 backing off to 533
+st1 backing off to 545
+st2 backing off to 535
+st4 backing off to 537
+st5 backing off to 534
+st0 backing off to 535
+st1 backing off to 545
+st3 backing off to 542
+st5 backing off to 540
+st0 backing off to 536
+st3 backing off to 541
+st4 backing off to 542
+st5 backing off to 543
+st1 backing off to 550
+st2 sending data to st0 at 535
+st4 sending data to st0 at 535
+collision detected at 535 purging data
+st0 sending data to st3 at 536
+st3 backing off to 551
+st4 backing off to 547
+st5 backing off to 541
+st1 backing off to 541
+st2 sending data to st0 at 537
+st4 backing off to 542
+collision detected at 537 purging data
+st0 backing off to 548
+st2 backing off to 549
+st3 sending data to st3 at 539
+st4 backing off to 540
+st5 backing off to 546
+st0 sending data to st4 at 540
+st1 backing off to 543
+st2 backing off to 545
+st3 backing off to 545
+st4 backing off to 555
+st5 backing off to 544
+collision detected at 540 purging data
+st3 backing off to 547
+st5 sending data to st1 at 541
+st0 backing off to 552
+st1 sending data to st3 at 542
+st2 backing off to 546
+st3 backing off to 552
+st4 backing off to 548
+collision detected at 542 purging data
+st0 backing off to 557
+st1 backing off to 549
+st2 backing off to 556
+st5 backing off to 552
+st4 backing off to 552
+st0 backing off to 559
+st3 backing off to 550
+st4 backing off to 558
+st5 sending data to st5 at 545
+st0 backing off to 551
+st2 backing off to 561
+st3 sending data to st2 at 546
+st4 backing off to 560
+st1 backing off to 550
+st3 backing off to 548
+st5 backing off to 553
+st0 backing off to 561
+st2 backing off to 561
+st3 backing off to 560
+st4 backing off to 554
+st0 backing off to 559
+st2 backing off to 564
+st5 backing off to 554
+st1 backing off to 551
+st2 sending data to st3 at 550
+st3 backing off to 559
+st4 sending data to st3 at 550
+collision detected at 550 purging data
+st1 backing off to 553
+st2 backing off to 565
+st4 backing off to 560
+st5 backing off to 556
+st1 sending data to st5 at 552
+st2 sending data to st4 at 552
+collision detected at 552 purging data
+st0 backing off to 556
+st1 backing off to 557
+st3 backing off to 560
+st4 backing off to 567
+st0 backing off to 559
+st1 backing off to 562
+st3 sending data to st3 at 554
+st4 backing off to 566
+st1 sending data to st2 at 555
+st3 backing off to 562
+st5 backing off to 570
+st0 backing off to 562
+st1 backing off to 571
+st3 backing off to 563
+st4 sending data to st1 at 556
+st5 backing off to 570
+st1 backing off to 571
+st3 backing off to 566
+st4 backing off to 569
+st1 backing off to 559
+st4 sending data to st0 at 558
+st5 backing off to 566
+st1 sending data to st2 at 559
+st2 backing off to 564
+st3 backing off to 565
+st0 backing off to 575
+st1 backing off to 562
+st2 backing off to 571
+st3 backing off to 571
+st4 backing off to 572
+st5 backing off to 573
+st2 backing off to 570
+st4 backing off to 572
+st5 backing off to 567
+st1 backing off to 564
+st2 sending data to st2 at 562
+st4 backing off to 568
+st3 backing off to 576
+st1 backing off to 573
+st4 sending data to st0 at 564
+st5 sending data to st0 at 564
+collision detected at 564 purging data
+st0 backing off to 573
+st1 backing off to 579
+st2 backing off to 580
+st3 backing off to 567
+st5 backing off to 568
+st4 backing off to 579
+st0 backing off to 569
+st3 backing off to 580
+st5 backing off to 582
+st0 backing off to 583
+st2 backing off to 582
+st3 backing off to 569
+st0 backing off to 584
+st2 backing off to 579
+st3 backing off to 580
+st5 backing off to 571
+st0 backing off to 580
+st1 backing off to 579
+st2 sending data to st3 at 570
+st4 backing off to 573
+st1 backing off to 584
+st2 backing off to 583
+st3 backing off to 583
+st5 backing off to 579
+st0 backing off to 577
+st1 backing off to 579
+st2 backing off to 575
+st4 backing off to 577
+st2 sending data to st4 at 573
+st1 backing off to 584
+st2 backing off to 578
+st3 backing off to 583
+st4 backing off to 581
+st5 backing off to 577
+st1 backing off to 586
+st2 backing off to 576
+st5 sending data to st3 at 575
+st1 backing off to 589
+st2 backing off to 577
+st3 backing off to 583
+st4 backing off to 590
+st5 backing off to 591
+st0 backing off to 582
+st2 backing off to 585
+st1 backing off to 584
+st2 backing off to 579
+st2 backing off to 584
+st3 sending data to st4 at 579
+st4 backing off to 588
+st1 backing off to 585
+st2 sending data to st0 at 580
+st5 backing off to 585
+collision detected at 580 purging data
+st1 backing off to 592
+st4 backing off to 590
+st5 backing off to 593
+st0 backing off to 592
+st1 backing off to 584
+st2 backing off to 585
+st3 backing off to 591
+st4 backing off to 597
+st2 backing off to 591
+st3 backing off to 587
+st1 backing off to 585
+st2 sending data to st0 at 584
+st4 backing off to 590
+st5 backing off to 588
+st0 backing off to 586
+st1 sending data to st4 at 585
+st4 backing off to 600
+st0 backing off to 598
+st2 sending data to st5 at 586
+st5 backing off to 589
+st0 backing off to 602
+st1 backing off to 594
+st3 sending data to st0 at 587
+collision detected at 587 purging data
+st1 backing off to 596
+st3 backing off to 597
+st4 backing off to 597
+st5 backing off to 594
+st0 sending data to st0 at 589
+st1 backing off to 592
+st5 sending data to st0 at 589
+collision detected at 589 purging data
+st0 backing off to 597
+st1 backing off to 598
+st2 backing off to 595
+st3 sending data to st3 at 590
+st4 backing off to 601
+st5 backing off to 603
+st0 sending data to st4 at 591
+st1 sending data to st4 at 591
+st2 backing off to 597
+st3 backing off to 605
+collision detected at 591 purging data
+st0 backing off to 594
+st1 backing off to 603
+st3 sending data to st1 at 592
+st4 backing off to 603
+st5 backing off to 594
+st4 backing off to 607
+st0 backing off to 605
+st1 backing off to 603
+st2 backing off to 607
+st4 backing off to 598
+st5 backing off to 608
+st0 backing off to 598
+st2 backing off to 604
+st3 backing off to 596
+st4 backing off to 610
+st0 sending data to st1 at 596
+st1 backing off to 604
+st3 backing off to 597
+st5 backing off to 607
+st3 backing off to 612
+st5 sending data to st3 at 598
+st0 backing off to 603
+st5 backing off to 604
+st0 backing off to 606
+st3 backing off to 610
+st5 backing off to 610
+st2 backing off to 607
+st3 backing off to 605
+st4 sending data to st5 at 601
+st2 backing off to 614
+st3 sending data to st4 at 602
+st4 backing off to 611
+st0 backing off to 605
+st1 backing off to 607
+st3 backing off to 617
+st4 backing off to 614
+st5 backing off to 614
+st0 sending data to st5 at 604
+st1 sending data to st5 at 604
+st5 backing off to 614
+collision detected at 604 purging data
+st5 backing off to 610
+st1 backing off to 613
+st3 sending data to st0 at 606
+st4 backing off to 609
+st3 backing off to 615
+st4 backing off to 617
+st1 backing off to 615
+st3 sending data to st4 at 609
+st4 sending data to st1 at 609
+st5 backing off to 624
+collision detected at 609 purging data
+st0 backing off to 612
+st2 backing off to 624
+st5 backing off to 619
+st0 backing off to 619
+st1 backing off to 614
+st4 backing off to 624
+st1 backing off to 614
+st3 backing off to 614
+st4 sending data to st1 at 612
+st3 backing off to 619
+st5 backing off to 628
+st0 backing off to 624
+st1 sending data to st2 at 614
+st3 backing off to 620
+collision detected at 614 purging data
+st1 backing off to 629
+st2 sending data to st3 at 615
+st1 backing off to 623
+st2 backing off to 622
+st2 backing off to 627
+st3 sending data to st4 at 617
+st5 backing off to 619
+st0 backing off to 622
+st1 sending data to st3 at 618
+st2 sending data to st2 at 618
+st3 backing off to 628
+collision detected at 618 purging data
+st3 backing off to 632
+st5 backing off to 626
+st0 backing off to 633
+st1 backing off to 633
+st3 backing off to 632
+st4 sending data to st5 at 620
+st1 backing off to 635
+st2 backing off to 634
+st4 sending data to st0 at 621
+st2 backing off to 623
+st3 sending data to st5 at 622
+st0 backing off to 629
+st1 backing off to 630
+st2 backing off to 634
+st0 backing off to 638
+st1 sending data to st2 at 624
+st1 backing off to 627
+st2 backing off to 626
+st4 backing off to 636
+st2 backing off to 639
+st4 backing off to 637
+st5 backing off to 635
+st1 backing off to 633
+st3 backing off to 637
+st1 sending data to st4 at 628
+st2 backing off to 639
+st3 backing off to 643
+st4 sending data to st3 at 628
+st5 backing off to 636
+collision detected at 628 purging data
+st0 backing off to 643
+st1 backing off to 637
+st2 backing off to 633
+st5 sending data to st5 at 629
+st2 backing off to 645
+st3 backing off to 636
+st1 sending data to st5 at 631
+st3 backing off to 635
+st4 backing off to 641
+st5 backing off to 644
+collision detected at 631 purging data
+st1 sending data to st1 at 632
+st2 backing off to 639
+st4 backing off to 637
+st1 backing off to 634
+st2 backing off to 646
+st3 backing off to 646
+st0 backing off to 647
+st1 backing off to 637
+st2 backing off to 646
+st3 sending data to st1 at 634
+st4 sending data to st4 at 634
+st5 sending data to st2 at 634
+collision detected at 634 purging data
+st2 backing off to 643
+st4 backing off to 650
+st5 backing off to 643
+st0 backing off to 637
+st2 sending data to st4 at 636
+st5 sending data to st4 at 636
+collision detected at 636 purging data
+st0 backing off to 644
+st1 backing off to 652
+st4 backing off to 646
+st2 backing off to 646
+st1 backing off to 645
+st2 backing off to 643
+st5 backing off to 642
+st0 backing off to 655
+st1 backing off to 649
+st4 sending data to st1 at 640
+st5 backing off to 651
+st2 sending data to st3 at 641
+st3 sending data to st2 at 641
+collision detected at 641 purging data
+st2 backing off to 650
+st5 backing off to 652
+st0 sending data to st0 at 643
+st4 backing off to 644
+st0 backing off to 651
+st2 sending data to st0 at 644
+st4 backing off to 646
+collision detected at 644 purging data
+st0 backing off to 658
+st1 backing off to 658
+st2 backing off to 659
+st5 sending data to st3 at 645
+st0 backing off to 651
+st1 sending data to st3 at 646
+st4 backing off to 648
+st5 backing off to 647
+st2 backing off to 653
+st3 backing off to 649
+st5 sending data to st5 at 647
+st0 backing off to 661
+st4 backing off to 649
+st5 backing off to 649
+st3 backing off to 655
+st4 sending data to st5 at 649
+st5 backing off to 651
+collision detected at 649 purging data
+st1 sending data to st5 at 650
+st2 backing off to 664
+st3 backing off to 665
+st4 backing off to 657
+st5 backing off to 664
+st0 backing off to 664
+st1 backing off to 660
+st2 backing off to 657
+st4 backing off to 657
+st5 sending data to st2 at 651
+st0 backing off to 661
+st3 sending data to st2 at 652
+st4 backing off to 663
+st2 backing off to 654
+st0 backing off to 661
+st1 backing off to 657
+st2 backing off to 657
+st3 backing off to 668
+st4 backing off to 658
+st5 backing off to 655
+st3 backing off to 656
+st5 backing off to 657
+st1 backing off to 667
+st3 backing off to 659
+st4 sending data to st3 at 656
+st5 backing off to 661
+st2 backing off to 659
+st3 backing off to 659
+st5 backing off to 664
+st0 backing off to 660
+st1 sending data to st3 at 658
+st3 backing off to 667
+st4 backing off to 660
+st1 sending data to st1 at 659
+st2 backing off to 674
+st5 sending data to st2 at 659
+collision detected at 659 purging data
+st0 backing off to 675
+st4 backing off to 669
+st5 backing off to 665
+st0 backing off to 663
+st1 backing off to 669
+st2 backing off to 672
+st0 backing off to 668
+st2 backing off to 668
+st4 backing off to 672
+st5 backing off to 677
+st0 backing off to 666
+st3 backing off to 674
+st5 backing off to 678
+st1 backing off to 672
+st2 backing off to 673
+st3 backing off to 671
+st5 backing off to 667
+st0 backing off to 678
+st1 backing off to 670
+st3 backing off to 677
+st4 backing off to 678
+st0 backing off to 674
+st1 sending data to st5 at 667
+st2 backing off to 668
+st3 backing off to 674
+st5 backing off to 675
+st2 backing off to 679
+st5 backing off to 679
+st1 backing off to 683
+st3 backing off to 673
+st1 backing off to 674
+st5 backing off to 672
+st1 backing off to 675
+st3 sending data to st1 at 672
+st4 sending data to st3 at 672
+st5 sending data to st4 at 672
+collision detected at 672 purging data
+st0 backing off to 678
+st1 backing off to 683
+st3 backing off to 688
+st0 backing off to 683
+st3 backing off to 679
+st4 backing off to 681
+st5 backing off to 677
+st1 backing off to 687
+st5 backing off to 683
+st2 sending data to st2 at 676
+st3 backing off to 682
+st2 sending data to st5 at 677
+collision detected at 677 purging data
+st0 sending data to st5 at 678
+st4 backing off to 687
+st5 backing off to 690
+st2 backing off to 683
+st3 backing off to 685
+st1 backing off to 687
+st3 backing off to 689
+st5 backing off to 687
+st1 backing off to 682
+st2 backing off to 686
+st3 backing off to 690
+st1 backing off to 692
+st2 backing off to 684
+st3 backing off to 696
+st2 sending data to st2 at 683
+st5 backing off to 690
+st1 backing off to 692
+st2 sending data to st1 at 684
+st3 sending data to st2 at 684
+collision detected at 684 purging data
+st2 sending data to st0 at 685
+st3 backing off to 688
+st4 backing off to 699
+st0 sending data to st2 at 686
+st2 backing off to 691
+st4 backing off to 694
+st5 backing off to 701
+collision detected at 686 purging data
+st0 backing off to 692
+st2 backing off to 693
+st3 backing off to 692
+st1 backing off to 695
+st2 sending data to st5 at 688
+st3 sending data to st1 at 688
+st4 backing off to 697
+st5 backing off to 695
+collision detected at 688 purging data
+st0 backing off to 703
+st3 backing off to 701
+st5 backing off to 700
+st1 backing off to 697
+st4 backing off to 704
+st5 backing off to 696
+st0 backing off to 702
+st2 backing off to 700
+st3 sending data to st3 at 691
+st2 backing off to 695
+st3 backing off to 697
+st4 backing off to 693
+st2 backing off to 702
+st3 backing off to 698
+st4 backing off to 694
+st5 backing off to 695
+st4 sending data to st1 at 694
+st0 backing off to 696
+st1 backing off to 709
+st5 backing off to 710
+st0 sending data to st3 at 696
+st1 backing off to 711
+st2 sending data to st4 at 696
+st3 sending data to st3 at 696
+st5 backing off to 703
+collision detected at 696 purging data
+st1 sending data to st3 at 697
+st2 backing off to 712
+st3 backing off to 709
+st5 backing off to 709
+st2 backing off to 712
+st5 backing off to 703
+st2 backing off to 709
+st3 backing off to 710
+st0 backing off to 705
+st1 backing off to 710
+st3 backing off to 714
+st0 backing off to 715
+st2 backing off to 705
+st3 backing off to 703
+st0 sending data to st1 at 702
+st4 backing off to 706
+st0 backing off to 714
+st1 backing off to 706
+st3 sending data to st2 at 703
+st5 backing off to 717
+collision detected at 703 purging data
+st0 backing off to 706
+st1 backing off to 711
+st3 backing off to 716
+st5 backing off to 712
+st0 backing off to 719
+st2 backing off to 718
+st3 backing off to 711
+st4 backing off to 707
+st0 backing off to 708
+st1 sending data to st3 at 706
+st2 backing off to 708
+st4 sending data to st1 at 707
+st5 backing off to 714
+st0 backing off to 711
+st1 backing off to 714
+st2 sending data to st4 at 708
+st4 backing off to 722
+st5 backing off to 712
+st2 sending data to st2 at 709
+st3 sending data to st2 at 709
+st4 sending data to st0 at 709
+collision detected at 709 purging data
+st1 sending data to st0 at 710
+st4 backing off to 719
+st5 backing off to 714
+st0 backing off to 712
+st3 backing off to 720
+st5 backing off to 724
+st0 sending data to st5 at 712
+st3 backing off to 715
+st4 backing off to 725
+st5 backing off to 716
+st0 sending data to st3 at 713
+st1 backing off to 728
+st2 backing off to 728
+st3 sending data to st3 at 713
+st4 backing off to 724
+st5 sending data to st4 at 713
+collision detected at 713 purging data
+st2 backing off to 721
+st5 backing off to 716
+st2 backing off to 728
+st3 backing off to 722
+st0 sending data to st0 at 716
+st3 sending data to st1 at 716
+st4 sending data to st4 at 716
+st5 backing off to 717
+collision detected at 716 purging data
+st1 backing off to 725
+st2 backing off to 730
+st3 backing off to 724
+st4 sending data to st0 at 717
+st5 backing off to 725
+st0 backing off to 720
+st1 backing off to 723
+st2 backing off to 724
+st0 backing off to 722
+st1 backing off to 733
+st3 backing off to 735
+st4 sending data to st2 at 720
+st5 backing off to 735
+st2 backing off to 726
+st3 backing off to 724
+st0 backing off to 724
+st1 sending data to st2 at 722
+collision detected at 722 purging data
+st0 backing off to 734
+st2 backing off to 736
+st4 backing off to 726
+st5 sending data to st4 at 723
+st0 backing off to 725
+st1 backing off to 733
+st3 sending data to st0 at 724
+st4 sending data to st3 at 724
+collision detected at 724 purging data
+st0 backing off to 736
+st2 backing off to 738
+st5 backing off to 740
+st1 backing off to 733
+st4 backing off to 739
+st5 backing off to 727
+st1 backing off to 731
+st2 backing off to 738
+st3 backing off to 740
+st4 backing off to 730
+st5 backing off to 735
+st2 backing off to 736
+st4 backing off to 737
+st5 backing off to 734
+st0 backing off to 733
+st3 backing off to 740
+st5 backing off to 737
+st2 backing off to 740
+st3 backing off to 739
+st4 backing off to 734
+st1 backing off to 738
+st2 sending data to st5 at 731
+st4 sending data to st3 at 731
+collision detected at 731 purging data
+st0 backing off to 741
+st2 sending data to st3 at 732
+st3 backing off to 747
+st5 sending data to st5 at 732
+collision detected at 732 purging data
+st1 backing off to 738
+st2 backing off to 737
+st3 backing off to 734
+st4 sending data to st2 at 733
+st0 sending data to st1 at 734
+st1 backing off to 744
+st3 backing off to 735
+collision detected at 734 purging data
+st3 backing off to 738
+st4 backing off to 746
+st5 backing off to 736
+st4 backing off to 751
+st5 backing off to 749
+st0 sending data to st2 at 737
+st1 backing off to 742
+st2 backing off to 751
+st3 backing off to 744
+st5 backing off to 744
+st1 backing off to 743
+st2 sending data to st1 at 738
+st3 sending data to st1 at 738
+st4 backing off to 746
+st5 backing off to 742
+collision detected at 738 purging data
+st2 backing off to 753
+st3 sending data to st5 at 739
+st0 backing off to 754
+st2 sending data to st0 at 740
+st5 backing off to 755
+collision detected at 740 purging data
+st1 backing off to 748
+st4 sending data to st5 at 741
+st5 backing off to 753
+st0 sending data to st3 at 742
+st2 backing off to 754
+st4 backing off to 751
+st0 backing off to 746
+st3 backing off to 756
+st5 backing off to 745
+st2 backing off to 753
+st3 backing off to 748
+st4 backing off to 748
+st0 backing off to 751
+st3 backing off to 756
+st5 backing off to 759
+st0 backing off to 754
+st3 backing off to 755
+st0 backing off to 762
+st1 backing off to 754
+st2 backing off to 762
+st4 backing off to 755
+st5 backing off to 751
+st0 backing off to 761
+st3 backing off to 755
+st5 backing off to 757
+st0 sending data to st5 at 749
+st4 backing off to 754
+st5 backing off to 752
+st3 backing off to 762
+st0 backing off to 760
+st4 backing off to 762
+st5 backing off to 755
+st0 backing off to 753
+st1 backing off to 755
+st2 backing off to 764
+st5 sending data to st4 at 752
+st0 sending data to st3 at 753
+st1 backing off to 756
+st2 backing off to 760
+st0 sending data to st1 at 754
+st1 backing off to 755
+st2 backing off to 755
+st4 backing off to 763
+st5 backing off to 765
+collision detected at 754 purging data
+st0 backing off to 764
+st1 backing off to 769
+st2 backing off to 761
+st5 backing off to 759
+st1 backing off to 767
+st2 backing off to 767
+st4 backing off to 765
+st5 backing off to 764
+st0 backing off to 759
+st1 backing off to 770
+st3 backing off to 767
+st5 backing off to 767
+st0 backing off to 768
+st4 backing off to 772
+st5 backing off to 761
+st0 backing off to 768
+st1 backing off to 768
+st2 backing off to 764
+st3 backing off to 762
+st4 sending data to st5 at 759
+st5 backing off to 763
+st0 backing off to 773
+st1 backing off to 768
+st5 backing off to 767
+st0 backing off to 769
+st2 backing off to 775
+st4 backing off to 764
+st2 backing off to 770
+st3 backing off to 773
+st4 backing off to 766
+st5 sending data to st5 at 762
+st5 backing off to 766
+st1 backing off to 765
+st2 backing off to 778
+st3 backing off to 766
+st5 backing off to 775
+st0 backing off to 770
+st1 backing off to 772
+st3 backing off to 766
+st0 backing off to 773
+st1 backing off to 770
+st3 backing off to 769
+st4 backing off to 775
+st5 backing off to 769
+st1 backing off to 775
+st2 backing off to 771
+st0 backing off to 772
+st3 backing off to 776
+st5 backing off to 781
+st2 backing off to 773
+st3 backing off to 780
+st5 sending data to st0 at 770
+st0 sending data to st0 at 771
+st2 backing off to 775
+st3 backing off to 783
+st4 backing off to 775
+collision detected at 771 purging data
+st3 backing off to 782
+st4 backing off to 779
+st0 backing off to 788
+st3 backing off to 776
+st5 backing off to 786
+st0 backing off to 781
+st2 backing off to 782
+st3 sending data to st2 at 774
+st0 backing off to 787
+st1 sending data to st3 at 775
+st5 backing off to 778
+collision detected at 775 purging data
+st0 backing off to 783
+st3 sending data to st2 at 776
+st4 backing off to 781
+st2 backing off to 787
+st0 backing off to 790
+st2 backing off to 785
+st3 sending data to st3 at 778
+st4 backing off to 785
+st5 backing off to 783
+collision detected at 778 purging data
+st1 backing off to 785
+st3 backing off to 788
+st4 backing off to 782
+st5 backing off to 786
+st2 backing off to 791
+st4 backing off to 785
+st5 backing off to 796
+st0 backing off to 792
+st3 backing off to 787
+st3 backing off to 791
+st4 sending data to st4 at 783
+st5 backing off to 794
+st1 backing off to 791
+st3 backing off to 790
+st5 backing off to 785
+st0 backing off to 795
+st3 backing off to 789
+st4 backing off to 800
+st5 sending data to st2 at 785
+st0 backing off to 787
+st1 backing off to 792
+st2 backing off to 801
+st5 sending data to st1 at 786
+st0 backing off to 793
+st1 backing off to 798
+st3 backing off to 790
+st4 sending data to st0 at 787
+st5 sending data to st3 at 787
+collision detected at 787 purging data
+st0 backing off to 802
+st1 backing off to 797
+st0 backing off to 804
+st1 backing off to 790
+st3 backing off to 797
+st4 backing off to 794
+st0 backing off to 791
+st1 backing off to 802
+st3 backing off to 798
+st4 backing off to 801
+st5 sending data to st3 at 790
+st0 sending data to st3 at 791
+st1 sending data to st3 at 791
+st2 backing off to 803
+st3 sending data to st1 at 791
+collision detected at 791 purging data
+st0 backing off to 802
+st2 backing off to 802
+st4 backing off to 807
+st0 backing off to 803
+st2 backing off to 798
+st5 backing off to 800
+st0 backing off to 800
+st1 backing off to 798
+st0 backing off to 799
+st1 backing off to 809
+st2 backing off to 803
+st4 sending data to st4 at 795
+st5 backing off to 805
+st0 sending data to st2 at 796
+st1 backing off to 807
+st4 backing off to 808
+st5 backing off to 802
+st1 sending data to st1 at 798
+st2 backing off to 803
+st3 backing off to 801
+st4 sending data to st5 at 798
+st5 backing off to 809
+collision detected at 798 purging data
+st2 backing off to 812
+st3 backing off to 809
+st0 backing off to 802
+st2 backing off to 815
+st4 backing off to 804
+st5 backing off to 811
+st1 sending data to st4 at 801
+st2 sending data to st5 at 801
+collision detected at 801 purging data
+st0 backing off to 807
+st1 backing off to 810
+st2 backing off to 806
+st0 backing off to 810
+st3 backing off to 810
+st1 sending data to st1 at 804
+st4 backing off to 817
+st0 sending data to st0 at 805
+st4 backing off to 812
+st0 backing off to 816
+st2 backing off to 813
+st5 backing off to 813
+st0 backing off to 816
+st1 backing off to 817
+st2 backing off to 815
+st4 backing off to 811
+st1 backing off to 821
+st3 backing off to 822
+st1 sending data to st3 at 809
+st2 backing off to 812
+st3 backing off to 816
+st4 backing off to 815
+st1 backing off to 823
+st2 sending data to st4 at 810
+st5 backing off to 825
+collision detected at 810 purging data
+st1 backing off to 813
+st3 backing off to 813
+st4 backing off to 812
+st5 backing off to 817
+st4 backing off to 819
+st1 backing off to 821
+st3 backing off to 824
+st4 backing off to 827
+st5 backing off to 822
+st1 sending data to st0 at 814
+st2 sending data to st1 at 814
+st3 backing off to 823
+st4 backing off to 821
+collision detected at 814 purging data
+st0 backing off to 830
+st2 backing off to 817
+st0 backing off to 827
+st2 backing off to 825
+st3 backing off to 828
+st4 backing off to 825
+st5 backing off to 822
+st0 backing off to 828
+st2 sending data to st1 at 817
+st5 backing off to 825
+st0 backing off to 832
+st1 backing off to 825
+st3 backing off to 821
+st5 sending data to st4 at 818
+st0 backing off to 833
+st2 sending data to st5 at 819
+st3 backing off to 826
+st4 backing off to 826
+st5 backing off to 834
+collision detected at 819 purging data
+st0 sending data to st4 at 820
+st2 backing off to 834
+st3 backing off to 821
+st1 sending data to st5 at 821
+st3 backing off to 827
+st4 backing off to 827
+collision detected at 821 purging data
+st2 backing off to 837
+st3 backing off to 832
+st4 backing off to 828
+st5 sending data to st3 at 822
+st3 backing off to 837
+st5 backing off to 834
+st1 backing off to 825
+st3 backing off to 825
+st0 backing off to 827
+st1 backing off to 827
+st3 backing off to 830
+st4 backing off to 827
+st0 backing off to 830
+st3 backing off to 834
+st5 backing off to 829
+st0 backing off to 842
+st1 backing off to 833
+st3 backing off to 835
+st4 backing off to 837
+st2 backing off to 833
+st3 sending data to st0 at 828
+st0 backing off to 835
+st1 backing off to 840
+st2 backing off to 841
+st3 backing off to 844
+st5 backing off to 836
+st0 backing off to 833
+st1 backing off to 838
+st2 backing off to 840
+st1 backing off to 846
+st2 sending data to st5 at 831
+st0 backing off to 842
+st1 backing off to 835
+st2 backing off to 835
+st4 sending data to st4 at 832
+collision detected at 832 purging data
+st0 sending data to st2 at 833
+st2 backing off to 846
+st4 backing off to 839
+st5 backing off to 840
+st0 backing off to 848
+st1 backing off to 849
+st2 backing off to 842
+st3 backing off to 844
+st5 backing off to 840
+st0 backing off to 848
+st5 backing off to 841
+st0 backing off to 851
+st1 backing off to 851
+st2 backing off to 847
+st3 backing off to 840
+st4 backing off to 847
+st1 backing off to 852
+st2 backing off to 845
+st3 sending data to st0 at 837
+st4 backing off to 847
+st0 backing off to 842
+st1 sending data to st4 at 838
+st3 backing off to 851
+st4 backing off to 846
+st5 backing off to 846
+collision detected at 838 purging data
+st0 backing off to 854
+st4 backing off to 846
+st5 backing off to 846
+st0 backing off to 848
+st1 sending data to st1 at 840
+st2 backing off to 842
+st3 backing off to 846
+st4 backing off to 855
+st0 backing off to 844
+st3 backing off to 853
+st4 backing off to 848
+st5 backing off to 845
+st2 sending data to st4 at 842
+st3 backing off to 854
+st4 backing off to 856
+st0 backing off to 855
+st1 sending data to st4 at 843
+st2 backing off to 857
+st3 backing off to 854
+st5 backing off to 844
+collision detected at 843 purging data
+st1 backing off to 858
+st4 backing off to 859
+st5 backing off to 858
+st0 backing off to 858
+st1 backing off to 858
+st2 backing off to 853
+st1 backing off to 847
+st2 backing off to 850
+st1 backing off to 858
+st2 sending data to st0 at 847
+st4 sending data to st5 at 847
+st5 backing off to 859
+collision detected at 847 purging data
+st0 backing off to 863
+st2 backing off to 854
+st3 backing off to 862
+st5 backing off to 859
+st5 backing off to 861
+st2 backing off to 862
+st3 backing off to 857
+st4 sending data to st4 at 850
+st0 backing off to 866
+st4 backing off to 860
+st0 sending data to st0 at 852
+st1 backing off to 854
+st3 backing off to 867
+collision detected at 852 purging data
+st0 sending data to st0 at 853
+st1 sending data to st1 at 853
+st2 backing off to 860
+st3 backing off to 868
+st4 sending data to st2 at 853
+st5 sending data to st2 at 853
+collision detected at 853 purging data
+st1 backing off to 869
+st3 backing off to 855
+st0 backing off to 858
+st1 backing off to 862
+st2 backing off to 863
+st3 sending data to st5 at 855
+st4 backing off to 863
+st5 backing off to 862
+st4 backing off to 864
+st3 sending data to st5 at 857
+st0 backing off to 861
+st2 sending data to st3 at 858
+collision detected at 858 purging data
+st0 backing off to 868
+st1 backing off to 861
+st2 sending data to st0 at 859
+st3 sending data to st2 at 859
+st5 backing off to 860
+collision detected at 859 purging data
+st0 backing off to 872
+st1 backing off to 872
+st2 backing off to 870
+st5 backing off to 861
+st0 backing off to 870
+st5 sending data to st0 at 861
+st1 backing off to 871
+st2 backing off to 864
+st4 backing off to 875
+st0 backing off to 867
+st1 sending data to st3 at 863
+st2 sending data to st0 at 863
+st3 backing off to 869
+collision detected at 863 purging data
+st3 backing off to 876
+st2 backing off to 867
+st3 backing off to 873
+st4 sending data to st0 at 865
+st0 backing off to 870
+st1 backing off to 881
+st2 sending data to st0 at 866
+st4 backing off to 873
+collision detected at 866 purging data
+st0 backing off to 868
+st2 backing off to 873
+st3 backing off to 874
+st4 backing off to 872
+st0 backing off to 883
+st2 backing off to 883
+st4 backing off to 871
+st5 backing off to 883
+st0 backing off to 871
+st2 backing off to 884
+st3 backing off to 870
+st4 sending data to st1 at 869
+st0 backing off to 876
+st3 backing off to 885
+st1 backing off to 876
+st5 backing off to 884
+st0 backing off to 878
+st2 backing off to 880
+st4 backing off to 880
+st5 backing off to 875
+st0 backing off to 882
+st4 backing off to 878
+st0 sending data to st4 at 874
+st2 backing off to 883
+st5 sending data to st4 at 874
+collision detected at 874 purging data
+st0 backing off to 887
+st3 backing off to 883
+st5 backing off to 883
+st0 backing off to 884
+st1 backing off to 890
+st2 backing off to 885
+st5 backing off to 881
+st1 backing off to 880
+st2 backing off to 891
+st4 sending data to st2 at 877
+st0 backing off to 885
+st2 backing off to 886
+st3 backing off to 891
+st4 sending data to st1 at 878
+st5 backing off to 885
+collision detected at 878 purging data
+st0 backing off to 893
+st1 backing off to 887
+st3 backing off to 893
+st4 backing off to 893
+st0 backing off to 885
+st2 sending data to st3 at 880
+st4 backing off to 890
+st4 backing off to 884
+st5 backing off to 889
+st1 backing off to 889
+st2 backing off to 887
+st5 backing off to 891
+st0 backing off to 885
+st4 backing off to 898
+st0 backing off to 885
+st1 backing off to 897
+st2 sending data to st2 at 884
+st3 backing off to 889
+st4 backing off to 892
+st0 backing off to 897
+st2 backing off to 897
+st3 backing off to 896
+st0 backing off to 895
+st1 backing off to 891
+st3 backing off to 900
+st5 sending data to st2 at 886
+st1 sending data to st4 at 887
+st2 sending data to st0 at 887
+st4 backing off to 895
+collision detected at 887 purging data
+st1 backing off to 898
+st3 backing off to 897
+st4 backing off to 889
+st4 backing off to 893
+st5 backing off to 900
+st0 backing off to 892
+st1 backing off to 895
+st2 backing off to 894
+st4 backing off to 903
+st5 backing off to 897
+st0 backing off to 892
+st1 backing off to 903
+st2 backing off to 894
+st3 backing off to 898
+st0 backing off to 900
+st1 backing off to 901
+st2 sending data to st0 at 892
+st4 backing off to 903
+st0 backing off to 895
+st1 backing off to 901
+st3 backing off to 899
+st1 sending data to st0 at 894
+st2 backing off to 895
+st5 backing off to 901
+st0 sending data to st5 at 895
+st2 backing off to 897
+st3 backing off to 909
+st4 sending data to st2 at 895
+st5 backing off to 909
+collision detected at 895 purging data
+st1 sending data to st4 at 896
+st2 backing off to 905
+st4 sending data to st4 at 896
+collision detected at 896 purging data
+st4 backing off to 903
+st1 backing off to 902
+st2 backing off to 909
+st5 sending data to st3 at 898
+st0 backing off to 913
+st2 backing off to 901
+st3 backing off to 900
+st5 backing off to 903
+st0 sending data to st1 at 900
+st1 backing off to 902
+st2 backing off to 903
+st3 sending data to st1 at 900
+st5 backing off to 906
+collision detected at 900 purging data
+st1 backing off to 905
+st3 backing off to 908
+st5 sending data to st2 at 901
+st1 sending data to st3 at 902
+st2 backing off to 907
+st3 backing off to 913
+st4 backing off to 906
+collision detected at 902 purging data
+st0 backing off to 908
+st2 backing off to 913
+st0 backing off to 915
+st1 backing off to 917
+st3 backing off to 918
+st5 backing off to 916
+st1 backing off to 919
+st5 sending data to st3 at 905
+st2 backing off to 912
+st3 backing off to 917
+st4 backing off to 921
+st0 backing off to 908
+st2 backing off to 919
+st5 sending data to st3 at 907
+st0 sending data to st1 at 908
+st1 backing off to 913
+st2 backing off to 913
+collision detected at 908 purging data
+st0 backing off to 915
+st1 sending data to st1 at 909
+st2 backing off to 920
+st0 backing off to 914
+st1 backing off to 916
+st2 backing off to 923
+st3 backing off to 914
+st0 backing off to 913
+st3 backing off to 927
+st4 backing off to 921
+st5 backing off to 914
+st0 backing off to 924
+st1 backing off to 916
+st3 backing off to 920
+st5 backing off to 915
+st0 sending data to st2 at 915
+st3 sending data to st1 at 915
+st5 backing off to 924
+collision detected at 915 purging data
+st0 backing off to 931
+st1 backing off to 930
+st2 backing off to 924
+st3 backing off to 931
+st1 sending data to st3 at 917
+st2 backing off to 931
+st3 sending data to st3 at 918
+st5 backing off to 927
+st0 backing off to 927
+st3 backing off to 922
+st4 sending data to st3 at 919
+collision detected at 919 purging data
+st0 backing off to 928
+st2 backing off to 923
+st3 sending data to st4 at 920
+st0 backing off to 925
+st2 backing off to 934
+st1 backing off to 929
+st3 backing off to 935
+st0 backing off to 926
+st2 backing off to 938
+st3 backing off to 936
+st4 backing off to 928
+st5 backing off to 935
+st0 backing off to 932
+st1 backing off to 935
+st2 backing off to 934
+st3 backing off to 927
+st4 backing off to 938
+st0 backing off to 938
+st3 backing off to 939
+st4 backing off to 932
+st1 backing off to 931
+st2 sending data to st3 at 926
+st4 backing off to 941
+st1 sending data to st0 at 927
+st2 backing off to 935
+st4 backing off to 928
+st5 backing off to 933
+collision detected at 927 purging data
+st1 sending data to st5 at 928
+st2 sending data to st2 at 928
+st3 backing off to 936
+st4 backing off to 933
+collision detected at 928 purging data
+st0 backing off to 934
+st1 backing off to 931
+st2 backing off to 930
+st3 sending data to st3 at 929
+st4 backing off to 932
+st5 backing off to 938
+st2 backing off to 938
+st4 backing off to 931
+st1 backing off to 941
+st3 backing off to 941
+st4 backing off to 934
+st2 backing off to 933
+st2 backing off to 943
+st0 backing off to 943
+st4 backing off to 937
+st0 sending data to st5 at 935
+st1 backing off to 950
+st5 backing off to 946
+st0 backing off to 940
+st1 backing off to 939
+st2 backing off to 938
+st5 backing off to 948
+st0 backing off to 949
+st1 backing off to 951
+st2 backing off to 948
+st4 backing off to 950
+st2 sending data to st5 at 938
+st3 backing off to 949
+st1 backing off to 954
+st3 sending data to st2 at 939
+st4 backing off to 943
+st1 backing off to 948
+st2 backing off to 948
+st4 backing off to 941
+st2 sending data to st0 at 941
+st4 backing off to 945
+st5 backing off to 946
+collision detected at 941 purging data
+st0 backing off to 953
+st1 backing off to 948
+st2 backing off to 954
+st3 sending data to st3 at 943
+st4 sending data to st2 at 943
+st5 backing off to 954
+collision detected at 943 purging data
+st3 backing off to 948
+st4 backing off to 951
+st0 backing off to 955
+st1 backing off to 949
+st2 backing off to 946
+st3 backing off to 952
+st5 sending data to st4 at 945
+st2 backing off to 959
+st5 backing off to 950
+st0 backing off to 958
+st2 sending data to st5 at 947
+st3 backing off to 948
+st5 backing off to 950
+st0 sending data to st3 at 948
+st2 backing off to 951
+st3 backing off to 961
+st4 sending data to st4 at 948
+st5 backing off to 959
+collision detected at 948 purging data
+st1 backing off to 962
+st4 backing off to 959
+st1 backing off to 958
+st3 sending data to st3 at 950
+st0 sending data to st0 at 951
+st1 backing off to 960
+st2 backing off to 955
+st4 backing off to 963
+st0 backing off to 953
+st4 backing off to 963
+st5 backing off to 957
+st0 backing off to 963
+st3 backing off to 962
+st4 backing off to 956
+st5 backing off to 956
+st1 backing off to 957
+st2 backing off to 969
+st5 backing off to 958
+st0 sending data to st4 at 955
+st1 sending data to st3 at 955
+st2 backing off to 962
+st4 backing off to 967
+collision detected at 955 purging data
+st2 backing off to 968
+st3 backing off to 958
+st5 backing off to 961
+st0 backing off to 964
+st5 backing off to 971
+st0 sending data to st0 at 958
+st1 sending data to st2 at 958
+st3 backing off to 972
+st4 backing off to 959
+collision detected at 958 purging data
+st2 backing off to 973
+st3 backing off to 960
+st4 backing off to 970
+st2 backing off to 962
+st3 backing off to 965
+st4 backing off to 975
+st0 backing off to 974
+st0 backing off to 967
+st1 backing off to 977
+st2 sending data to st3 at 962
+st3 backing off to 967
+st4 backing off to 976
+st0 backing off to 976
+st1 backing off to 978
+st2 backing off to 969
+st4 backing off to 969
+st5 sending data to st2 at 963
+st0 backing off to 968
+st1 backing off to 965
+st3 backing off to 969
+st1 backing off to 966
+st3 sending data to st0 at 965
+st4 backing off to 974
+st1 backing off to 968
+st2 backing off to 967
+st4 sending data to st2 at 966
+st1 backing off to 970
+st2 backing off to 981
+st3 backing off to 977
+st0 backing off to 982
+st2 backing off to 975
+st3 backing off to 980
+st0 sending data to st5 at 969
+st1 sending data to st0 at 969
+st2 backing off to 978
+st3 backing off to 971
+st4 sending data to st2 at 969
+st5 backing off to 983
+collision detected at 969 purging data
+st1 backing off to 971
+st3 backing off to 972
+st0 backing off to 985
+st1 backing off to 985
+st3 sending data to st0 at 971
+st5 backing off to 973
+st0 backing off to 975
+st1 backing off to 986
+st0 backing off to 986
+st2 backing off to 985
+st5 backing off to 985
+st0 backing off to 977
+st4 backing off to 976
+st5 backing off to 979
+st4 sending data to st4 at 976
+st5 backing off to 988
+st0 backing off to 983
+st2 sending data to st2 at 977
+st4 backing off to 980
+st5 backing off to 989
+collision detected at 977 purging data
+st1 backing off to 984
+st4 sending data to st0 at 978
+st0 backing off to 983
+st1 backing off to 990
+st4 backing off to 981
+st5 backing off to 986
+st2 backing off to 984
+st3 sending data to st4 at 980
+st4 backing off to 992
+collision detected at 980 purging data
+st1 backing off to 994
+st2 backing off to 986
+st4 backing off to 986
+st5 sending data to st2 at 981
+st0 backing off to 989
+st2 backing off to 990
+st5 backing off to 995
+st0 backing off to 994
+st3 backing off to 996
+st0 backing off to 997
+st2 backing off to 994
+st4 backing off to 993
+st0 backing off to 987
+st1 backing off to 993
+st2 backing off to 1000
+st5 backing off to 990
+st2 backing off to 990
+st4 sending data to st5 at 986
+st0 backing off to 998
+st1 backing off to 994
+st2 backing off to 1000
+st4 backing off to 1002
+st0 backing off to 992
+st4 sending data to st1 at 988
+st5 backing off to 995
+st0 sending data to st4 at 989
+st1 backing off to 992
+st0 backing off to 995
+st1 backing off to 992
+st2 backing off to 1001
+st3 backing off to 996
+st4 backing off to 1001
+st5 backing off to 1002
+st3 sending data to st1 at 991
+st4 backing off to 996
+collision detected at 991 purging data
+st1 backing off to 999
+st2 backing off to 1000
+st4 sending data to st2 at 992
+st2 backing off to 995
+st4 backing off to 1005
+st5 backing off to 996
+st0 backing off to 996
+st2 sending data to st5 at 995
+st4 backing off to 1006
+st0 backing off to 1011
+st1 backing off to 1001
+st2 backing off to 1009
+st3 backing off to 1009
+st4 backing off to 997
+st5 backing off to 1004
+st2 backing off to 1008
+st4 backing off to 1007
+st0 sending data to st5 at 998
+st2 backing off to 1007
+st3 backing off to 999
+st0 backing off to 1013
+st3 backing off to 1009
+st0 backing off to 1009
+st3 backing off to 1001
+st4 backing off to 1010
+st1 backing off to 1016
+st3 backing off to 1004
+st3 backing off to 1013
+st5 backing off to 1005
+st5 backing off to 1013
+st2 backing off to 1021
+st0 sending data to st5 at 1009
+st4 backing off to 1016
+st3 backing off to 1017
+st5 backing off to 1019
+st1 backing off to 1026
+st4 backing off to 1018
+st3 backing off to 1031
+st4 backing off to 1029
+st5 backing off to 1028
+st2 backing off to 1027
+st1 backing off to 1036
+st2 sending data to st3 at 1027
+st5 backing off to 1030
+st4 sending data to st3 at 1029
+collision detected at 1029 purging data
+st5 backing off to 1037
+st3 backing off to 1045
+st1 backing off to 1038
+st5 backing off to 1045
+st1 sending data to st5 at 1038
+st3 backing off to 1054
+st5 backing off to 1049
+st5 backing off to 1063
+st3 sending data to st4 at 1054
+st5 sending data to st4 at 1063
